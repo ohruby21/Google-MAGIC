@@ -8,6 +8,8 @@ h1 {
   	font-size: 100px;
  	position: relative;
   	text-align: center;
+	background-image: (Google-MAGIC/skyline.jpg) 
+
 }
 /* for country names, color purple */
 h2 {
@@ -26,7 +28,6 @@ h4 {
 	position: center;
 }
 .header {
-	background-image: (Google-MAGIC/skyline.jpg) 
 	/*background:no-repeat center center;*/
 }
 
