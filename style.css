@@ -32,7 +32,8 @@ p {
 }
 .main {
 	position: center;
-	background: -webkit-linear-gradient(#B9DEEE, #87C6F4);
+	background: img(Google-MAGIC/skyline.jpg)
+	/*background: -webkit-linear-gradient(#B9DEEE, #87C6F4);*/
 	text-align: center;
 
  
