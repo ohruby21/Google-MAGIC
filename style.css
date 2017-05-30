@@ -13,19 +13,23 @@ h1 {
 /* for country names, color purple */
 h2 {
 	color: #A896C1;
-	font-family: Georgia sans-serif;
+	font-family: Covered By Your Grace, cursive;
+
 }
 /* for city names, color light blue */
 h3 {
 	color: #96C5E3;
-	font-family: Herculanum;
+  	font-family: Covered By Your Grace, cursive;
 }
 /* for categories, color light purple */
 h4 {
 	color: #DBA9F0;
+	font-family: Covered By Your Grace, cursive;
+}
+p {
+	font-family: Josefin Sans, sans-serif;
 }
 .main {
-	background: -webkit-linear-gradient(#95C0D3, #419AC1);
 	position: center;
  
 
