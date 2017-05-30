@@ -24,11 +24,12 @@ h4 {
 	color: #DBA9F0;
 }
 .main {
+	background: -webkit-linear-gradient(-45deg, #35577D, #141E30); 
 	position: center;
  
 
 }
 .header {
-	background: -webkit-linear-gradient(-45deg, #35577D, #141E30); 
+	/*background: -webkit-linear-gradient(-45deg, #35577D, #141E30); */
 }
 
