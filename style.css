@@ -8,6 +8,8 @@ h1 {
   	font-size: 100px;
  	position: relative;
   	text-align: center;
+	background: (Google-MAGIC/skyline.jpg) no-repeat center center;
+
 
 }
 /* for country names, color purple */
@@ -20,6 +22,8 @@ h2 {
 h3 {
 	color: #1162DC;
   	font-family: Covered By Your Grace, cursive;
+	background: (Google-MAGIC/M- San Miguel Horses.JPG) no-repeat center center;
+)
 }
 /* for categories, color light purple */
 h4 {
