@@ -22,7 +22,9 @@ h3 {
 h4 {
 	color: #DBA9F0;
 }
-
+.main {
+	position: center;
+}
 .header {
 	background: ('Skyline.jpg') no-repeat center center;
 }
