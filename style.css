@@ -6,7 +6,7 @@ body {
 
 .header {
 background-image: url(http://imgur.com/a/5iTNn);
-background-positon: center center;
+background-position: center center;
 }
 
 <!-- For- title  Color- blue -->
@@ -20,18 +20,18 @@ h1 {
 
 <!-- For- country names  Color- purple -->
 h2 {
-color: #A896C1
+color: #A896C1;
 font-family: sans-serif;
 }
 
 <!-- For- city names  Color- light blue -->
 h3 {
-color: #96C5E3
+color: #96C5E3;
 }
 
 <!-- For- categories  Color- light purple -->
 h4 {
-color: #DBA9F0
+color: #DBA9F0;
 }
 
 }
