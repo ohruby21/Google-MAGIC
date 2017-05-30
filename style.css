@@ -31,10 +31,11 @@ p {
 }
 .main {
 	position: center;
+	background: -webkit-linear-gradient(#B9DEEE, #87C6F4);
+
  
 
 }
 .header {
-	background: -webkit-linear-gradient(#95C0D3, #419AC1);
 }
 
