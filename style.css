@@ -26,6 +26,7 @@ h4 {
 	position: center;
 }
 .header {
-	background: (Google-MAGIC/skyline.jpg) no-repeat center center;
+	background-image: (Google-MAGIC/skyline.jpg) 
+	/*background:no-repeat center center;*/
 }
 
