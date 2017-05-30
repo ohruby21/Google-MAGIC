@@ -1,35 +1,29 @@
-head {
-
+html, body {
+	margin: 0;
 }
-
-body {
-background-image: (Skyline.JPG);
-background-position: center center;
-}
-
-<!-- For- title  Color- blue -->
-h1 { 
-  color: #41FB2DF;
-  font-family: Covered By Your Grace;
+/* for title, color blue */
+h1 {
+	color: #41FB2DF;
+  font-family: 'Covered By Your Grace';
   font-size: 100px;
   position: relative;
   text-align: center;
 }
-
-<!-- For- country names  Color- purple -->
+/* for country names, color purple */
 h2 {
-color: #A896C1;
-font-family: sans-serif;
+	color: #A896C1;
+	font-family: sans-serif;
 }
-
-<!-- For- city names  Color- light blue -->
+/* for city names, color light blue */
 h3 {
-color: #96C5E3;
+	color: #96C5E3;
 }
-
-<!-- For- categories  Color- light purple -->
+/* for categories, color light purple */
 h4 {
-color: #DBA9F0;
+	color: #DBA9F0;
 }
 
+.header {
+	background: ('Skyline.jpg') no-repeat center center;
 }
+
