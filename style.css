@@ -4,10 +4,10 @@ html, body {
 /* for title, color blue */
 h1 {
 	color: #41FB2DF;
-  font-family: Georgia;
-  font-size: 100px;
-  position: relative;
-  text-align: center;
+  	font-family: Georgia;
+  	font-size: 100px;
+ 	position: relative;
+  	text-align: center;
 }
 /* for country names, color purple */
 h2 {
