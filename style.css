@@ -25,11 +25,10 @@ h4 {
 }
 .main {
 	position: center;
-	background: (Google-MAGIC\skyline.jpg) no-repeat center center; 
  
 
 }
 .header {
-	/*background:no-repeat center center;*/
+	background: -webkit-linear-gradient(-45deg, #35577D, #141E30); 
 }
 
